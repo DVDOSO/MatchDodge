@@ -23,4 +23,4 @@ Instructions:
 ![Gameplay](https://github.com/DVDOSO/MatchDodge/blob/main/gameplay.PNG?raw=true)
 
 All graphics were designed from scratch in Adobe Photoshop.\
-Music used: Mega Man 3: Snake Man Stage.\
+Music used: Mega Man 3: Snake Man Stage.
