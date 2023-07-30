@@ -19,6 +19,8 @@ Instructions:
 - Each bullet deals 1-10 damage
 - Cards are randomized every playthrough
 
+YouTube video gameplay demonstration: [https://www.youtube.com/watch?v=Yd_JLDGS8_o](https://www.youtube.com/watch?v=Yd_JLDGS8_o)
+
 ![Main page](https://github.com/DVDOSO/MatchDodge/blob/main/mainPage.PNG?raw=true)
 ![Gameplay](https://github.com/DVDOSO/MatchDodge/blob/main/gameplay.PNG?raw=true)
 
