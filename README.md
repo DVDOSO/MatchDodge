@@ -6,7 +6,7 @@ Created using the Pygame module.
 To play the game:
 - Download all files or clone the respository
 - Unzip lib.zip
-- Doubleclick main.py to start the game
+- Run main.py to start the game
 
 Instructions:
 - The goal of the game is to flip over all of the pairs of cards
