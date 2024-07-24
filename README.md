@@ -4,7 +4,7 @@ Game created for a Game Jam.\
 Created using the Pygame module.
 
 To play the game:
-- Download all files in respository
+- Download all files or clone the respository
 - Unzip lib.zip
 - Doubleclick main.py to start the game
 
